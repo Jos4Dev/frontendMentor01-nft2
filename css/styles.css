@@ -104,7 +104,8 @@ body{
     font-weight: 300;
     line-height: 26px;
     margin-left: 24px;
-    margin-bottom: 1px;  
+    margin-bottom: -1px;  
+    margin-top: -10px;
 }
 
 .info{
